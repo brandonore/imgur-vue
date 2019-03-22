@@ -1,0 +1,4 @@
+Client ID: 90e617da0b0aaf1
+Client Secret: 95e45aaf872273ea0748245b24bb5f6947403151
+
+https://api.imgur.com/oauth2/authorize?client_id=90e617da0b0aaf1&response_type=token&state=APPLICATION_STATE
